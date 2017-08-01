@@ -11,11 +11,5 @@ namespace Polimorfismo
             Console.WriteLine("Dibujando un circulo");
             base.Dibujar();
         }
-
-        public override void Borrar()
-        {
-            Console.WriteLine("Borrando un circulo");
-            base.Borrar();
-        }
     }
 }

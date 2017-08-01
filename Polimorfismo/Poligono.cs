@@ -15,10 +15,5 @@ namespace Polimorfismo
         {
             Console.WriteLine("Dibujando");
         }
-
-        public virtual void Borrar()
-        {
-            Console.WriteLine("Borrando");
-        }
     }
 }
